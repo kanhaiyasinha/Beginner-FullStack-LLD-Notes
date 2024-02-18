@@ -69,7 +69,11 @@ Learning Node.js development and building a full-stack MERN (MongoDB, Express.js
     The best way to solidify your skills is by working on projects. Start with simple projects and gradually move on to more complex ones to gain practical experience.
 
 ## Fs module in depth 
-The `fs` module in Node.js stands for "File System," and it provides a way to work with the file system on your computer or server. It allows you to read from and write to files, manipulate directories, perform file operations, and more. Let's explore some of the key functionalities of the `fs` module in-depth:
+The `fs` module in Node.js stands for "File System," and it provides a way to work with the file system on your computer or server. It allows you to read from and write to files, manipulate directories, perform file operations, and more. 
+
+Node Js Modules : https://nodejs.org/api/modules.html
+
+Let's explore some of the key functionalities of the `fs` module in-depth:
 
 **1. Reading Files:**
 
