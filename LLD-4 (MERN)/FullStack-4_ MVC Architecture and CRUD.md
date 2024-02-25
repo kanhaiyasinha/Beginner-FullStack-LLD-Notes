@@ -36,6 +36,8 @@ Now, let's break down the MVC architecture within this analogy.
 
 **The following image gives an idea about MVC architecture**:
 
+![image](https://github.com/kanhaiyasinha/Beginner-FullStack-LLD-Notes/assets/147611285/bd2f3bb4-a800-4b60-93fb-9dd15d03dbfe)
+
 ![](https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/052/060/original/upload_24f17def1d1ac7e73c3a74069cf7b9f8.png?1696316119)
 
 
